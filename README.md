@@ -2,7 +2,7 @@
 
 I'm Sandaru Madhubhashana from Sri Lanaka. Currently following a BSc (Hons) Degree in Information Technology specialising in Software Engineering. Experienced with creating full-stack applications and mobile applications. I’m passionate about creating software that is both functional and aesthetically pleasing, and I’m always looking for new challenges to tackle. I really like clean and minimal interfaces as opposed to flashy and colourful ones.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandaru-IT2100135)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandaru-IT21001352)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
